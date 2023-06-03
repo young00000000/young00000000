@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://velog.io/@qpqp010920)" target="_blank"><img src="velog"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=flat&logo=velog&logoColor=000000"/></a>
+<a href="https://velog.io/@qpqp010920" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=flat&logo=velog&logoColor=20C997"/></a>
 
 <!--
 **young00000000/young00000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
