@@ -2,7 +2,7 @@
 
 <a href="https://velog.io/@qpqp010920" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=flat&logo=velog&logoColor=20C997"/></a>
 <a href="https://github.com/IMPORT-hanbat-univ" target="_blank"><img src="https://img.shields.io/badge/import-FFFFFF?style=flat&logo=github&logoColor=181717"/></a>
-<a href="https://medium.com/@qpqp01092020" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=flat&logo=velog&logoColor=20C997"/></a>
+<a href="https://medium.com/@qpqp01092020" target="_blank"><img src="https://img.shields.io/badge/medium-000000?style=flat&logo=velog&logoColor=FFFFFF"/></a>
 
 
 <!--
